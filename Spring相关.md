@@ -33,7 +33,7 @@
 * spring异常处理
 * spring对bean的管理流程
 * 然后问一个切点可以配置多个切面吗？
-* 问spring用了哪些设计模式；用了哪些分布式缓存？
+* 问spring用了哪些设计模式？
 * Spring 都有哪几种注入方式，什么情况下用哪种
 * 执行某操作，前50次成功，第51次失败a全部回滚b前50次提交第51次抛异常，ab场景分别如何设置Spring？（传播性）
 * sping如何实现（保证）事务一致性完整性，spring中事务传播机制类型；
@@ -41,7 +41,7 @@
 * spring底层数据结构？
 * spring aop的底层实验原理。 aop与cglib，与asm的关系。 spriong ioc的生命周期，init-method，intilizingbean接口方法afterPropertiesSet的先后顺序；
 * @transactional注解在什么情况下会失效，为什么。
-* .Spring如何维护它拥有的bean
+* Spring如何维护它拥有的bean
 * 问了class A和B相互依赖的情况下，spring如何对这两个bean进行加载
 * spring的bean加载机制和加载过程是怎样的；bean是什么时候消亡；
 * 对spring的Bean加载了解吗？如果是你自己写一个这样的框架，你会如何写？
